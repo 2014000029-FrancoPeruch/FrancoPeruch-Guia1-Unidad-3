@@ -1,0 +1,14 @@
+C:\Users\frank\OneDrive\Escritorio\Programación\Guia1-Programación-FrancoPeruch-29-IVC\Ejercicios C#\Lecc16_Act3_Inc1\Lecc16_Act3_Inc1\bin\Debug\net10.0\Lecc16_Act3_Inc1.exe
+C:\Users\frank\OneDrive\Escritorio\Programación\Guia1-Programación-FrancoPeruch-29-IVC\Ejercicios C#\Lecc16_Act3_Inc1\Lecc16_Act3_Inc1\bin\Debug\net10.0\Lecc16_Act3_Inc1.deps.json
+C:\Users\frank\OneDrive\Escritorio\Programación\Guia1-Programación-FrancoPeruch-29-IVC\Ejercicios C#\Lecc16_Act3_Inc1\Lecc16_Act3_Inc1\bin\Debug\net10.0\Lecc16_Act3_Inc1.runtimeconfig.json
+C:\Users\frank\OneDrive\Escritorio\Programación\Guia1-Programación-FrancoPeruch-29-IVC\Ejercicios C#\Lecc16_Act3_Inc1\Lecc16_Act3_Inc1\bin\Debug\net10.0\Lecc16_Act3_Inc1.dll
+C:\Users\frank\OneDrive\Escritorio\Programación\Guia1-Programación-FrancoPeruch-29-IVC\Ejercicios C#\Lecc16_Act3_Inc1\Lecc16_Act3_Inc1\bin\Debug\net10.0\Lecc16_Act3_Inc1.pdb
+C:\Users\frank\OneDrive\Escritorio\Programación\Guia1-Programación-FrancoPeruch-29-IVC\Ejercicios C#\Lecc16_Act3_Inc1\Lecc16_Act3_Inc1\obj\Debug\net10.0\Lecc16_Act3_Inc1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\OneDrive\Escritorio\Programación\Guia1-Programación-FrancoPeruch-29-IVC\Ejercicios C#\Lecc16_Act3_Inc1\Lecc16_Act3_Inc1\obj\Debug\net10.0\Lecc16_Act3_Inc1.AssemblyInfoInputs.cache
+C:\Users\frank\OneDrive\Escritorio\Programación\Guia1-Programación-FrancoPeruch-29-IVC\Ejercicios C#\Lecc16_Act3_Inc1\Lecc16_Act3_Inc1\obj\Debug\net10.0\Lecc16_Act3_Inc1.AssemblyInfo.cs
+C:\Users\frank\OneDrive\Escritorio\Programación\Guia1-Programación-FrancoPeruch-29-IVC\Ejercicios C#\Lecc16_Act3_Inc1\Lecc16_Act3_Inc1\obj\Debug\net10.0\Lecc16_Act3_Inc1.csproj.CoreCompileInputs.cache
+C:\Users\frank\OneDrive\Escritorio\Programación\Guia1-Programación-FrancoPeruch-29-IVC\Ejercicios C#\Lecc16_Act3_Inc1\Lecc16_Act3_Inc1\obj\Debug\net10.0\Lecc16_Act3_Inc1.dll
+C:\Users\frank\OneDrive\Escritorio\Programación\Guia1-Programación-FrancoPeruch-29-IVC\Ejercicios C#\Lecc16_Act3_Inc1\Lecc16_Act3_Inc1\obj\Debug\net10.0\refint\Lecc16_Act3_Inc1.dll
+C:\Users\frank\OneDrive\Escritorio\Programación\Guia1-Programación-FrancoPeruch-29-IVC\Ejercicios C#\Lecc16_Act3_Inc1\Lecc16_Act3_Inc1\obj\Debug\net10.0\Lecc16_Act3_Inc1.pdb
+C:\Users\frank\OneDrive\Escritorio\Programación\Guia1-Programación-FrancoPeruch-29-IVC\Ejercicios C#\Lecc16_Act3_Inc1\Lecc16_Act3_Inc1\obj\Debug\net10.0\Lecc16_Act3_Inc1.genruntimeconfig.cache
+C:\Users\frank\OneDrive\Escritorio\Programación\Guia1-Programación-FrancoPeruch-29-IVC\Ejercicios C#\Lecc16_Act3_Inc1\Lecc16_Act3_Inc1\obj\Debug\net10.0\ref\Lecc16_Act3_Inc1.dll
